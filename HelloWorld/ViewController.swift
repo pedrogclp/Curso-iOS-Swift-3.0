@@ -19,8 +19,6 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
         
-        let test = "Prueba"
-        print (test)
         
         let point = CGPoint (x: 5,y: 8)
         print (point)
